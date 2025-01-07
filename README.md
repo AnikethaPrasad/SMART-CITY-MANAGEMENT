@@ -12,7 +12,7 @@ The **Smart City Management** project aims to design and develop a unified, scal
 5. **Information Management & Project Display**
 6. **City Info & Real-Time Updates**
 
-### Epic Baseline Metrics:
+### Epic Baseline Establishment:
 
 | Epic                                | Baseline Metric                                                                 |
 |-------------------------------------|----------------------------------------------------------------------------------|
